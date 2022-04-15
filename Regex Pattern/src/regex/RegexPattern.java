@@ -28,7 +28,7 @@ public class RegexPattern
 		}
 		catch(Exception e)
 		{
-			JOptionPane.showMessageDialog(f, "Wrong regex", "Title", JOptionPane.PLAIN_MESSAGE);
+			JOptionPane.showMessageDialog(f, "Wrong pattern", "Title", JOptionPane.PLAIN_MESSAGE);
 		}
 	}
 }
